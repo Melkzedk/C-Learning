@@ -12,3 +12,4 @@ C:\Users\Admin\Videos\MyApp\obj\Debug\net9.0\refint\MyApp.dll
 C:\Users\Admin\Videos\MyApp\obj\Debug\net9.0\MyApp.pdb
 C:\Users\Admin\Videos\MyApp\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
 C:\Users\Admin\Videos\MyApp\obj\Debug\net9.0\ref\MyApp.dll
+C:\Users\Admin\Videos\MyApp\obj\Debug\net9.0\MyApp.sourcelink.json

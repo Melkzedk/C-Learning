@@ -1,4 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
 
-Console.WriteLine("Welcome to C# programming!");
+class Program
+{
+    static void Main(string[] args)
+    {
+        MyMethod();
+    }
+
+    static void MyMethod()
+    {
+        Console.WriteLine(MyMethod());
+    }
+}
