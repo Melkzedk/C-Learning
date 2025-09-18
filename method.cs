@@ -1,18 +1,6 @@
-using System;
+int a = 30;
+int b = 25;
+int c = a + b;
 
-public class HelloWorld
-{
-    static void MyMethod() 
-    {
-       int a = 30;
-       int b = 25;
-       int c = a + b;
-       Console.WriteLine(c);
-    }
-
-    public static void Main(string[] args)
-    {
-        MyMethod();
-        MyMethod();
-    }
-}
+Console.WriteLine(c);   // prints 55
+Console.WriteLine(c);   // prints 55 again
