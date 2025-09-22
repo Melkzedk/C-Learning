@@ -26,4 +26,6 @@ int myNum1 = PlusMethod(8, 5);
 
   /*
  This is the comment
+ int name = "Melk";
+ 
   */
