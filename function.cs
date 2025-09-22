@@ -27,3 +27,5 @@ int myNum1 = PlusMethod(8, 5);
 //
 
 int age = 49;
+
+Console.WriteLine(age);
