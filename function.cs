@@ -33,3 +33,4 @@ int myNum1 = PlusMethod(8, 5);
 
   int a = 10;
 int b = 45;
+int c = 50;
