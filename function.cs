@@ -35,3 +35,5 @@ int myNum1 = PlusMethod(8, 5);
 int b = 45;
 int c = 50;
 int d = 70;
+
+Console.WriteLine(a + b + c + d);
