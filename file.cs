@@ -7,4 +7,4 @@ string readText = File.ReadAllText("filename.txt");  // Read the contents of the
 Console.WriteLine(readText);  // Output the content
 
 // See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+//Console.WriteLine("Hello, World!");
