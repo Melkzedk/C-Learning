@@ -5,3 +5,6 @@ File.WriteAllText("filename.txt", writeText);  // Create a file and write the co
 
 string readText = File.ReadAllText("filename.txt");  // Read the contents of the file
 Console.WriteLine(readText);  // Output the content
+
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
