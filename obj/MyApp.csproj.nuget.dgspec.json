@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Videos\\MyApp\\MyApp.csproj": {}
+    "D:\\C-Sharp Project\\C-Learning\\MyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Videos\\MyApp\\MyApp.csproj": {
+    "D:\\C-Sharp Project\\C-Learning\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Videos\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "D:\\C-Sharp Project\\C-Learning\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "C:\\Users\\Admin\\Videos\\MyApp\\MyApp.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Videos\\MyApp\\obj\\",
+        "projectPath": "D:\\C-Sharp Project\\C-Learning\\MyApp.csproj",
+        "packagesPath": "C:\\Users\\melky\\.nuget\\packages\\",
+        "outputPath": "D:\\C-Sharp Project\\C-Learning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\melky\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
