@@ -8,5 +8,5 @@ Console.WriteLine(readText);  // Output the content
 
 // See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
-const string constString = "This is a constant strings.";
+const string constString = "This is a constant string.";
 Console.WriteLine(constString);
