@@ -1,12 +1,17 @@
-using System.IO;  // include the System.IO namespace
+using System;
+using System.IO;
 
-Char writeText = "Hello World!";  // Create a text string
-File.WriteAllText("filename.txt", writeText);  // Create a file and write the content of writeText to it
+class Program
+{
+    static void Main()
+    {
+        string writeText = "Hello World!";
+        File.WriteAllText("filename.txt", writeText);
 
-string readText = File.ReadAllText("filename.txt");  // Read the contents of the file
-Console.WriteLine(readText);  // Output the content
+        string readText = File.ReadAllText("filename.txt");
+        Console.WriteLine(readText);
 
-// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
-const string constString = "This is a constant string.";
-Console.WriteLine(constString);
+        const string constString = "This is a constant string.";
+        Console.WriteLine(constString);
+    }
+}
