@@ -1,10 +1,18 @@
-int Age = 20;
+using System;
 
-if (Age < 18)
+public static class IfElseExample
 {
-    Console.WriteLine("You are a minor.");
-}
-else
-{
-    Console.WriteLine("You are an adult.");
+    public static void Run()
+    {
+        int Age = 20;
+
+        if (Age < 18)
+        {
+            Console.WriteLine("You are a minor.");
+        }
+        else
+        {
+            Console.WriteLine("You are an adult.");
+        }
+    }
 }
